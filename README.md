@@ -1,3 +1,9 @@
+I was able to successfully format and start over with this back to 22H2. Updated twice. Signed up for Dev Insider Mode as well as bumped up to PRO version. Final update to 24H2 and then added back WSL Ubuntu. Smooth Sailing from here...
+
+Now if I could only get GNOME display working consistently!!
+
+---
+
 Not just an Universal MediaCreationTool wrapper script with ingenious support for business editions,  
 <img src="preview.png">  
 A powerful yet simple windows 10 / 11 deployment automation tool as well!  
